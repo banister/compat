@@ -1,6 +1,8 @@
 Compat
 ======
 
+(c) John Mair (banisterfiend); MIT License.
+
 Manages Ruby 1.9 and 1.8 compatibility in a single header file
 
 Features
