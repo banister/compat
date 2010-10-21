@@ -3,7 +3,7 @@ Compat
 
 Manages Ruby 1.9 and 1.8 compatibility in a single header file
 
-Supports
+Features
 --------
 
 * Detects version based on existence of `ROBJECT_EMBED_LEN_MAX` macro
